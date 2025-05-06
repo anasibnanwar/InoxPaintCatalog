@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#f5f5f5"/>
+  
+  <!-- Header -->
+  <text x="400" y="50" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle">BIG BRIGHT Paints Color Chart</text>
+  
+  <!-- Acrylic Distemper Section -->
+  <text x="200" y="100" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">ACRYLIC DISTEMPER</text>
+  
+  <!-- Special Emulsion Section -->
+  <text x="600" y="100" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">SPECIAL EMULSION</text>
+  
+  <!-- Color Swatches - First Row -->
+  <rect x="50" y="120" width="80" height="60" fill="#ffffff" stroke="#000000"/>
+  <text x="90" y="200" font-family="Arial" font-size="12" text-anchor="middle">White</text>
+  
+  <rect x="150" y="120" width="80" height="60" fill="#FFF9C4"/>
+  <text x="190" y="200" font-family="Arial" font-size="12" text-anchor="middle">Pale Cream</text>
+  
+  <rect x="250" y="120" width="80" height="60" fill="#FFEB3B"/>
+  <text x="290" y="200" font-family="Arial" font-size="12" text-anchor="middle">Daffodil</text>
+  
+  <rect x="350" y="120" width="80" height="60" fill="#FFEE58"/>
+  <text x="390" y="200" font-family="Arial" font-size="12" text-anchor="middle">Yellow</text>
+  
+  <rect x="500" y="120" width="80" height="60" fill="#9C27B0"/>
+  <text x="540" y="200" font-family="Arial" font-size="12" text-anchor="middle">Magenta</text>
+  
+  <rect x="600" y="120" width="80" height="60" fill="#8E24AA"/>
+  <text x="640" y="200" font-family="Arial" font-size="12" text-anchor="middle">Purple</text>
+  
+  <!-- Color Swatches - Second Row -->
+  <rect x="50" y="220" width="80" height="60" fill="#FFF9C4"/>
+  <text x="90" y="300" font-family="Arial" font-size="12" text-anchor="middle">Ivory</text>
+  
+  <rect x="150" y="220" width="80" height="60" fill="#CCFF90"/>
+  <text x="190" y="300" font-family="Arial" font-size="12" text-anchor="middle">Liril</text>
+  
+  <rect x="250" y="220" width="80" height="60" fill="#FFCC80"/>
+  <text x="290" y="300" font-family="Arial" font-size="12" text-anchor="middle">Tango</text>
+  
+  <rect x="350" y="220" width="80" height="60" fill="#FF9800"/>
+  <text x="390" y="300" font-family="Arial" font-size="12" text-anchor="middle">Sunrise</text>
+  
+  <rect x="500" y="220" width="80" height="60" fill="#8BC34A"/>
+  <text x="540" y="300" font-family="Arial" font-size="12" text-anchor="middle">Lemmon Shuffle</text>
+  
+  <rect x="600" y="220" width="80" height="60" fill="#FF9800"/>
+  <text x="640" y="300" font-family="Arial" font-size="12" text-anchor="middle">Orange</text>
+  
+  <!-- Color Swatches - Third Row -->
+  <rect x="50" y="320" width="80" height="60" fill="#9CCC65"/>
+  <text x="90" y="400" font-family="Arial" font-size="12" text-anchor="middle">Light Green</text>
+  
+  <rect x="150" y="320" width="80" height="60" fill="#00C853"/>
+  <text x="190" y="400" font-family="Arial" font-size="12" text-anchor="middle">Parrot Green</text>
+  
+  <rect x="250" y="320" width="80" height="60" fill="#F44336"/>
+  <text x="290" y="400" font-family="Arial" font-size="12" text-anchor="middle">Signal Red</text>
+  
+  <rect x="350" y="320" width="80" height="60" fill="#29B6F6"/>
+  <text x="390" y="400" font-family="Arial" font-size="12" text-anchor="middle">Sky Blue</text>
+  
+  <rect x="500" y="320" width="80" height="60" fill="#FFEB3B"/>
+  <text x="540" y="400" font-family="Arial" font-size="12" text-anchor="middle">Yellow</text>
+  
+  <rect x="600" y="320" width="80" height="60" fill="#1565C0"/>
+  <text x="640" y="400" font-family="Arial" font-size="12" text-anchor="middle">Soothing Sapphire</text>
+</svg>
