@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
-  <text x="0" y="40" fill="#084B8A" font-family="Montserrat" font-weight="700" font-size="24">BIG BRIGHT</text>
-  <text x="145" y="40" fill="#FFA500" font-family="Montserrat" font-weight="700" font-size="24">Paints</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60">
+  <text x="0" y="40" font-family="Montserrat" font-weight="700" font-size="24">
+    <tspan fill="#084B8A">BIG BRIGHT </tspan>
+    <tspan fill="#FFA500">Paints</tspan>
+  </text>
 </svg>
